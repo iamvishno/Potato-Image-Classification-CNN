@@ -1,9 +1,10 @@
 ## 🌿 Potato Leaf Disease Classification using CNN
 
-This project predicts whether a potato leaf has a disease using **Convolutional Neural Networks (CNN)**. It classifies leaves into one of three categories:
+This is a Simple project predicts whether a potato leaf has a disease using **Convolutional Neural Networks (CNN)**. It classifies leaves into one of three categories:
 - **Early Blight**
 - **Late Blight**
 - **Healthy**
+> **Note:** Try to perform more epochs. Although I tried running it on Google Colab, my system tends to hang.
 
 ### ✨ Features
 - Deep Learning-based Classification
@@ -15,10 +16,9 @@ This project predicts whether a potato leaf has a disease using **Convolutional 
 ### 📅 Dataset
 - The dataset for this project was obtained from **[Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)**, containing labeled images of potato leaves.
 
-### 🎥 Project Demo
-Check out how the project works in the following video:
+### 🎥 Project Interface
 
-*Insert Video Link Here*
+![image](projectimage/web.png)
 
 ### 🚀 Tech Stack
 - **Python**
